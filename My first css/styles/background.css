@@ -1,0 +1,22 @@
+#one{
+  background-image: url('images.jpg');
+  background-size: cover;
+  height: 500px;
+  background-repeat: no-repeat;
+  
+}
+#two{
+  background-image: url('download.jpg');
+  background-repeat: repeat-x;
+  background-size: contain;
+  height: 500px;
+
+}
+#three{
+  background-image: url('slide1New.jpg');
+  background-repeat: no-repeat;
+  background-size: 500px;
+  background-position: center;
+  background-color: bisque;
+  height: 500px;
+}

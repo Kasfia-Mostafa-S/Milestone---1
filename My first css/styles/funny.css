@@ -1,0 +1,24 @@
+*{
+  background-color: aqua;
+}
+#header{
+   text-align: center;
+   text-decoration:underline;
+   font-size: larger;
+   font-style: italic;
+   font-weight: 800;
+   font-family: 'Times New Roman', Times, serif;
+}
+#para{
+  text-align: justify;
+  /* display: inline-block; */
+  border: 3px solid blue;
+}
+.funny{
+  text-decoration: solid;
+  font-size: medium;
+  font-family: 'Courier New', Courier, monospace;
+}
+.rep{
+  text-decoration: underline;
+}

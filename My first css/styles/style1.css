@@ -1,0 +1,18 @@
+#aquamarine{
+  background-color: aquamarine;
+}
+
+#header{
+  color: rgb(39, 143, 103);
+  text-align: center;
+  font-size: larger;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: oblique;
+}
+.money{
+  color: greenyellow;
+  text-align: right;
+  font-size: medium;
+  font-family: 'Courier New', Courier, monospace;
+  font-style: inherit;
+}
